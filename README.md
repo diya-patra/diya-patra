@@ -1,6 +1,15 @@
 # 💫 About Me:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Diya+%F0%9F%91%8B;Welcome+to+my+GitHub!;Java+Enthusiast;Passionate+about+Web+Development;Always+Learning+Something+New;Learning+by+building+projects" alt="Typing SVG" />
+</p>
 Hi! I'm Diya, a BCA student who enjoys building web applications and exploring how software comes together from idea to implementation. I have a strong interest in web development and enjoy learning by creating projects, improving my coding skills, and experimenting with new technologies. Alongside development, I also explore research-oriented projects that help me understand how technology can solve real-world problems.
 
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diya-patra/diya-patra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diya-patra/diya-patra/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/diya-patra/diya-patra/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diya-patra/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@diya-patra) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/lil__techy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diyapatra2nd@gmail.com) 
@@ -12,17 +21,11 @@ Hi! I'm Diya, a BCA student who enjoys building web applications and exploring h
 ![](https://streak-stats.demolab.com/?user=diya-patra&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=diya-patra&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=diya-patra&theme=vue&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=diya-patra&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
-[![](https://komarev.com/ghpvc/?username=diya-patra&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=diya-patra&style=plastic)
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/diyapatra) 
